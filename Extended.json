@@ -3,31 +3,31 @@
     "info": {
         "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
         "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
-        "location": "London, England",
+        "location": "Overland Park, Kansas",
         "social": {
-            "twitter_handle": "cexplorer_io",
-            "telegram_handle": "cexplorer_io",
+            "twitter_handle": "TBD",
+            "telegram_handle": "",
             "facebook_handle": "",
-            "youtube_handle": "",
+            "youtube_handle": "https://www.youtube.com/channel/UC4DI_0XdnUJoxYoJmx2lkxA",
             "twitch_handle": "",
-            "discord_handle": "",
+            "discord_handle": "https://discord.gg/QwR4pGTK",
             "github_handle": "",
             "patreon_handle": "",
             "linkedin_handle": "",
-            "ada_handle": "$cexplorer"
+            "ada_handle": "$venalli"
         },
         "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
+            "name": "Venalli",
+            "addr": "",
+            "city": "Overland Park",
+            "country": "United States",
+            "company_id": "",
+            "vat_id": ""
         },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "me": "Single pool operator getting involved with Cardano by learning and starting a stake pool!",
+            "server": "I have full control over my two metal hardware servers in my home which are running the stake pool.",
+            "company": "Venalli"
         }
     }
 }
