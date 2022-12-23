@@ -2,6 +2,6 @@
 "name": "The Vivid Pool",
 "description": "Cardano Stake Pool Hosted by Venalli",
 "ticker": "VIVID",
-"homepage": "https://vividpool.io"
-"extended": "https://raw.githubusercontent.com/vividpool/Public/main/Extended.json",
+"homepage": "https://vividpool.io",
+"extended": "https://raw.githubusercontent.com/vividpool/Public/main/Extended.json"
 }
