@@ -1,11 +1,11 @@
 {
     "verification":"4157a1da5928e404ef",
     "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
-        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "url_png_icon_64x64": "https://github.com/vividpool/Public/blob/main/VividStake_Branding-01.jpg",
+        "url_png_logo": "https://github.com/vividpool/Public/blob/main/VividStake_Branding-01.jpg",
         "location": "",
         "social": {
-            "twitter_handle": "@thevividpool",
+            "twitter_handle": "thevividpool",
             "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
@@ -14,7 +14,7 @@
             "github_handle": "",
             "patreon_handle": "",
             "linkedin_handle": "",
-            "ada_handle": "$vividpool"
+            "ada_handle": "vividpool"
         },
         "company": {
             "name": "",
