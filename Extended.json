@@ -5,7 +5,7 @@
         "url_png_logo": "https://raw.githubusercontent.com/vividpool/Public/main/VividStake_Branding-64x64.png",
         "location": "",
         "social": {
-            "twitter_handle": "thevividpool",
+            "twitter_handle": "vividcardano",
             "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
@@ -25,8 +25,8 @@
             "vat_id": ""
         },
         "about": {
-            "me": "I have a Bachelors Degree in Mechanical Engineering. I am Power Delivery Engineer. I do engineering for all things power related.(Generation: Solar and Wind Design, Substation: Physical and Electrical Design, Distribution: Power Lines Design, Universal Power Supply: Installation of Backup Power) I have always been a fan of Cardano and I am very happy to now be supporting the network!",
-            "server": "The Vivid Pool is running on Beelink SER3 with AMD Processor(4 cores, 8 threads) with 32GB of RAM. These units consumes a maximum of 57 watts which is roughly equivalent to three phone chargers. Low power demands is great for the environment and backup power needs. Upcoming, Vivid Stake pool will be powered by a battery backup system to ensure uptime to mint blocks. Vivid Stake pool will incorporate solar and wind energy.",
+            "me": "I have a Bachelors Degree in Mechanical Engineering. I am Power Delivery Engineer. I do engineering for all things power-related.(Generation: Solar and Wind Design, Substation: Physical and Electrical Design, Distribution: Power Lines Design, Universal Power Supply: Installation of Backup Power) I have always been a fan of Cardano and I am very happy to now be supporting the network!",
+            "server": "Vivid is running on Beelink SER3 with AMD Processor (4 cores, 8 threads) with 32GB of RAM. These units consume a maximum of 57 watts which is roughly equivalent to three phone chargers. Low power demands is great for the environment and backup power needs. Upcoming, Vivid will be powered by a battery backup system to ensure uptime to mint blocks. Vivid will incorporate solar and wind energy.",
             "company": ""
         }
     }
